@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>78_150.jpg</filename>
+	<path>C:\Users\ysb\Desktop\FoodPicture\Images\78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>youmaicai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>35</xmin>
+			<ymin>41</ymin>
+			<xmax>121</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

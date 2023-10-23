@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>65_90.jpg</filename>
+	<path>C:\Users\ysb\Desktop\FoodPicture\Images\65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>juanxincairoupian</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>2</xmin>
+			<ymin>0</ymin>
+			<xmax>113</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

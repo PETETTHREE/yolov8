@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>68_270.jpg</filename>
+	<path>C:\Users\ysb\Desktop\FoodPicture\Images\68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>juanxincairoupian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>7</xmin>
+			<ymin>5</ymin>
+			<xmax>104</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

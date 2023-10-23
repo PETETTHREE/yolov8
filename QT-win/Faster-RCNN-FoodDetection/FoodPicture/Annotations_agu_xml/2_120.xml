@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>2_120.jpg</filename>
+	<path>C:\Users\ysb\Desktop\FoodPicture\Images\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chashugu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>50</xmin>
+			<ymin>21</ymin>
+			<xmax>124</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

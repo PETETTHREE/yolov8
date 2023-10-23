@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>73_60.jpg</filename>
+	<path>C:\Users\ysb\Desktop\FoodPicture\Images\73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>youmaicai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>34</xmin>
+			<ymin>28</ymin>
+			<xmax>113</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

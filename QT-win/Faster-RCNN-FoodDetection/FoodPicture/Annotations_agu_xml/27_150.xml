@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>27_150.jpg</filename>
+	<path>C:\Users\ysb\Desktop\FoodPicture\Images\27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>112</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dongguawanzi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox updated="yes">
+			<xmin>30</xmin>
+			<ymin>27</ymin>
+			<xmax>127</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>
